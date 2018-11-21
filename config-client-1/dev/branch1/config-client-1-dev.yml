@@ -1,3 +1,5 @@
 branch1:
   test1:
     name: test1
+foo:
+  name: name2 在branch1中
